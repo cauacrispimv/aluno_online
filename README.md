@@ -1,7 +1,8 @@
 ## Prints dos Testes (Insomnia & DBeaver)
 
 ### ✔️ POST /alunos
-![POST](https://i.imgur.com/BLQUojC.png)
+![POST](prints/print1.png
+)
 
 ### ✔️ GET /alunos
 ![GET All](https://i.imgur.com/S9RjxEr.png)
